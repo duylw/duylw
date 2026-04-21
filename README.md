@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**duylw/duylw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student & Aspiring AI/ML Engineer
+I’m a 20-year-old CS student passionate about bridging human language and machine intelligence, currently exploring the NLP field.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=duylw&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duylw&layout=compact&theme=radical)
+
+---
+
+### Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/luong-quang-duy-4b4680326/)
+- 📧 [Email](duylw25@gmail.com)
