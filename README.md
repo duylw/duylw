@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Luong Quang Duy]
+# 👋 Hi, I'm Luong Quang Duy
 
 ### Computer Science Student & Aspiring AI/ML Engineer
 I’m a 20-year-old CS student passionate about bridging human language and machine intelligence, currently exploring the NLP field.
@@ -15,4 +15,4 @@ I’m a 20-year-old CS student passionate about bridging human language and mach
 ### Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/luong-quang-duy-4b4680326/)
-- 📧 [Email](duylw25@gmail.com)
+- 📧 [Email](mailto:duylw25@gmail.com)
