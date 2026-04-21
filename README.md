@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Luong Quang Duy]
 
 ### Computer Science Student & Aspiring AI/ML Engineer
 I’m a 20-year-old CS student passionate about bridging human language and machine intelligence, currently exploring the NLP field.
