@@ -12,6 +12,14 @@ I’m a 20-year-old CS student passionate about bridging human language and mach
 
 ---
 
+### Contribution & Activity
+
+![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=duylw&theme=radical&utcOffset=7)
+![Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duylw&theme=radical)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/commit-per-language?username=duylw&theme=radical)
+
+---
+
 ### Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/luong-quang-duy-4b4680326/)
