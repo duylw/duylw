@@ -7,7 +7,7 @@ I’m a 20-year-old CS student passionate about bridging human language and mach
 
 ### GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duylw&theme=radical&hide_border=true)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duylw&theme=radical)
 
 ---
 
